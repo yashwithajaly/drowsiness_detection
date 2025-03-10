@@ -1,0 +1,6 @@
+Python 3.7+
+OpenCV
+PyTorch
+Transformers 
+PyQt5
+Pygame 
